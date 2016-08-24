@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+.red{
+	background-color: #EF432E;
+	position: static;
+	width: 300px;
+	height: 300px;
+}
+.purple{
+	background-color: #561BA2;
+	position:relative;
+	width: 170px;
+	height: 170px;
+	top: 50px;
+	left:60px;
+}
+.yellow{
+	background-color: #FCF60F;
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	top: 0px;
+	left:0px;	
+}
